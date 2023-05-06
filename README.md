@@ -32,4 +32,6 @@ npm run clear
 ```
 
 Используемые технологии:
-swiper
+
+- swiper
+- верстка mobile-first
